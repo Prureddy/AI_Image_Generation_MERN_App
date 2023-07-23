@@ -83,3 +83,10 @@
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
 #### Happy coding! If you have any questions or run into any issues, feel free to create an issue in this repository.
+
+![ai image](https://github.com/Prureddy/AI_Image_Generation_MERN_App/assets/99805816/93c34777-e56b-492f-9fb2-598969eb765a)
+
+
+
+
+
