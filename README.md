@@ -3,7 +3,7 @@
 ### This repository contains a MERN (MongoDB, Express.js, React.js, Node.js) Stack application that generates an image based on the provided text input. The application utilizes the Vite tool for creating a development environment and provides easy-to-follow commands for setting up and running the project.
 
 ## Prerequisites
-- Before getting started, ensure you have the following software installed on your system:
+### - Before getting started, ensure you have the following software installed on your system:
 
 ### - Node.js: Download Node.js
 ### - MongoDB: Download MongoDB
